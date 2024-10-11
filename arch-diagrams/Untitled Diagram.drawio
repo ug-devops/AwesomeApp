@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Ws1gLKhcjA2NSecggDod-88" value="Auto Scaling Group" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.groupCenter;grIcon=mxgraph.aws4.group_auto_scaling_group;grStroke=0;strokeColor=#B6BABF;fillColor=#47515E;verticalAlign=top;align=center;fontColor=#B6BABF;dashed=0;spacingTop=25;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="1270" width="470" height="240" as="geometry" />
+        </mxCell>
         <mxCell id="Ws1gLKhcjA2NSecggDod-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="225" y="160" width="400" height="190" as="geometry" />
         </mxCell>
@@ -152,17 +155,38 @@
         <mxCell id="Ws1gLKhcjA2NSecggDod-50" value="Amazon EC2" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.ec2;" vertex="1" parent="1">
           <mxGeometry x="-43.75" y="1330" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Ws1gLKhcjA2NSecggDod-51" value="t2.large&amp;nbsp;&lt;div&gt;compute heavy microservice&lt;div&gt;node.js&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-406.25" y="1450" width="100" height="30" as="geometry" />
+        <mxCell id="Ws1gLKhcjA2NSecggDod-51" value="t2.large&amp;nbsp;&lt;div&gt;compute heavy microservice&lt;div&gt;node.js&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-406.25" y="1457" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ws1gLKhcjA2NSecggDod-52" value="&lt;div&gt;t2.xlarge&lt;/div&gt;RAM Heavy microservice node.js" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-216.25" y="1440" width="70" height="30" as="geometry" />
+        <mxCell id="Ws1gLKhcjA2NSecggDod-52" value="&lt;div&gt;t2.xlarge&lt;/div&gt;RAM Heavy microservice node.js" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-216.25" y="1451" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ws1gLKhcjA2NSecggDod-53" value="t2.medium High Storage microservice node.js" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-38.75" y="1450" width="70" height="30" as="geometry" />
+        <mxCell id="Ws1gLKhcjA2NSecggDod-53" value="t2.medium High Storage microservice node.js" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-38.75" y="1450" width="78.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ws1gLKhcjA2NSecggDod-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ws1gLKhcjA2NSecggDod-64" target="Ws1gLKhcjA2NSecggDod-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-431" y="1380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ws1gLKhcjA2NSecggDod-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ws1gLKhcjA2NSecggDod-64" target="Ws1gLKhcjA2NSecggDod-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-431" y="1380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ws1gLKhcjA2NSecggDod-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ws1gLKhcjA2NSecggDod-64" target="Ws1gLKhcjA2NSecggDod-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-431" y="1380" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Ws1gLKhcjA2NSecggDod-64" value="AWS Secrets Manager" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.secrets_manager;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="1160" width="70" height="100" as="geometry" />
+          <mxGeometry x="-466.25" y="1160" width="70" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Ws1gLKhcjA2NSecggDod-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ws1gLKhcjA2NSecggDod-15" target="kDkyR3wlVVw4IRGfqUSK-2">
           <mxGeometry relative="1" as="geometry" />
@@ -179,9 +203,6 @@
               <mxPoint x="-750" y="570" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Ws1gLKhcjA2NSecggDod-87" value="Auto Scaling group" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.groupCenter;grIcon=mxgraph.aws4.group_auto_scaling_group;grStroke=1;strokeColor=#D86613;fillColor=none;verticalAlign=top;align=center;fontColor=#D86613;dashed=1;spacingTop=25;" vertex="1" parent="1">
-          <mxGeometry x="-446.25" y="1280" width="516.25" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
