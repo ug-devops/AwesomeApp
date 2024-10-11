@@ -52,7 +52,7 @@
           <mxGeometry x="220" y="230" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Ws1gLKhcjA2NSecggDod-16" value="AWS Secrets Manager" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.secrets_manager;" vertex="1" parent="1">
-          <mxGeometry x="480" y="910" width="80" height="110" as="geometry" />
+          <mxGeometry x="70" y="490" width="70" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Ws1gLKhcjA2NSecggDod-21" value="React Front-End: Static Website with Global Distribution (Low Latency)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="195" y="160" width="410" height="30" as="geometry" />
@@ -61,22 +61,22 @@
           <mxGeometry x="300" y="410" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ws1gLKhcjA2NSecggDod-25" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=pod" vertex="1" parent="1">
-          <mxGeometry x="235" y="530" width="50" height="48" as="geometry" />
+          <mxGeometry x="235" y="490" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Ws1gLKhcjA2NSecggDod-26" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=pod" vertex="1" parent="1">
-          <mxGeometry x="375" y="530" width="50" height="48" as="geometry" />
+          <mxGeometry x="375" y="490" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Ws1gLKhcjA2NSecggDod-27" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=pod" vertex="1" parent="1">
-          <mxGeometry x="510" y="530" width="50" height="48" as="geometry" />
+          <mxGeometry x="510" y="490" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Ws1gLKhcjA2NSecggDod-28" value="compute optimized" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="225" y="590" width="70" height="30" as="geometry" />
+          <mxGeometry x="225" y="550" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ws1gLKhcjA2NSecggDod-29" value="memory optimized" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="365" y="590" width="70" height="30" as="geometry" />
+          <mxGeometry x="365" y="550" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ws1gLKhcjA2NSecggDod-30" value="storage optimized" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="505" y="590" width="70" height="30" as="geometry" />
+          <mxGeometry x="505" y="550" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
